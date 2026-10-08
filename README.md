@@ -9,7 +9,7 @@ A physics-first FPV drone simulator for Linux and Windows, flown with a real Rad
 | | |
 |---|---|
 | ![Inside the atrium](docs/atrium.jpg) | ![Collapsed floors](docs/ruins.jpg) |
-| ![Drone selection](docs/drones.jpg) | ![Drone spec card from the web demo](docs/drone-spec.jpg) |
+| ![Drone spec card from the web demo](docs/drone-spec.jpg) | |
 
 ## What makes it different
 
